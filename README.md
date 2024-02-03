@@ -22,4 +22,4 @@ App Idea: StudyBuddy/Friend Finder
 This app would help university students find other students to study with or hang out with.
 They would upload their schedule of classes they're taking for the semeseter ,major, hobbies, and other information which would then match users that have would be a good match. Users would be able to see a history of matches and choose if they want to match back.
 
-![](https://imgur.com/a/epCTmUO)
+<img src='https://imgur.com/a/epCTmUO' title='Video Walkthrough' width='' alt='Video Walkthrough' />
